@@ -9,6 +9,21 @@
 - npm install
 - npm run build
 
+we will add email configuration on .env file, because we will send email to reset password link from controlle:
+
+MAIL_DRIVER=smtp
+
+MAIL_HOST=smtp-mail.outlook.com
+
+MAIL_PORT=587
+
+MAIL_USERNAME= demo@gmail.com
+
+MAIL_PASSWORD=Your user Password
+
+MAIL_ENCRYPTION=tls
+
+MAIL_FROM_ADDRESS=example@gmail.com
 
 
 ## Output
