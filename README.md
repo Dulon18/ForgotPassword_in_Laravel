@@ -3,5 +3,10 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80118217/208971418-7fc7cd04-b38b-4ccf-bd1b-4a8e968115d0.JPG">
+<img width="700px" src="https://user-images.githubusercontent.com/80118217/208971418-7fc7cd04-b38b-4ccf-bd1b-4a8e968115d0.JPG">
 </p>
+
+<p align="center">
+<img width="700px" src="https://user-images.githubusercontent.com/80118217/208971526-31fec9cc-e549-4fb9-beb5-d8b853e89f36.JPG">
+</p>
+
