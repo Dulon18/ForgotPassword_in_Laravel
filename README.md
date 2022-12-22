@@ -37,3 +37,4 @@ MAIL_FROM_ADDRESS=example@gmail.com
 <img width="700px" src="https://user-images.githubusercontent.com/80118217/208971526-31fec9cc-e549-4fb9-beb5-d8b853e89f36.JPG">
 </p>
 
+<p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
