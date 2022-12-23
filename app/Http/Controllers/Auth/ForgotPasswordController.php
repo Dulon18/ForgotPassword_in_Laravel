@@ -15,7 +15,7 @@ class ForgotPasswordController extends Controller
 {
     public function showForgetPasswordForm()
     {
-       return view('auth.forgetPassword');
+       return view('auth.passwords.email');
     }
 
     /**
